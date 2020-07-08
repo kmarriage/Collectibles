@@ -6,7 +6,6 @@ namespace Collectibles
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             var cards = new GarbagePailKids
             {
                 Name = "Karate Kate",
